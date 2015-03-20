@@ -1,0 +1,20 @@
+/home/djim/Documents/paparazzi/var/aircrafts/bebop/nps/stabilization_none.o: \
+ firmwares/rotorcraft/stabilization/stabilization_none.c \
+ /home/djim/Documents/paparazzi/sw/airborne/firmwares/rotorcraft/stabilization.h \
+ /home/djim/Documents/paparazzi/sw/include/std.h \
+ /home/djim/Documents/paparazzi/sw/include/message_pragmas.h \
+ /home/djim/Documents/paparazzi/var/aircrafts/bebop/nps/generated/airframe.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/actuators/actuators_default.h \
+ /home/djim/Documents/paparazzi/sw/airborne/boards/pc_sim.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/actuators/actuators_4017.h \
+ /home/djim/Documents/paparazzi/sw/airborne/arch/sim/subsystems/actuators/servos_4017_hw.h \
+ /home/djim/Documents/paparazzi/sw/airborne/firmwares/rotorcraft/stabilization/stabilization_none.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_trig_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/radio_control.h \
+ /home/djim/Documents/paparazzi/sw/airborne/led.h \
+ /home/djim/Documents/paparazzi/sw/airborne/paparazzi.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/radio_control/ppm.h \
+ /home/djim/Documents/paparazzi/sw/airborne/arch/sim/subsystems/radio_control/ppm_arch.h \
+ /home/djim/Documents/paparazzi/var/aircrafts/bebop/nps/generated/radio.h

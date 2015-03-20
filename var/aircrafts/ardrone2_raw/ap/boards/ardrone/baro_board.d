@@ -1,0 +1,17 @@
+/home/djim/Documents/paparazzi/var/aircrafts/ardrone2_raw/ap/boards/ardrone/baro_board.o: \
+ boards/ardrone/baro_board.c \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/sensors/baro.h \
+ /home/djim/Documents/paparazzi/sw/airborne/boards/ardrone2_raw.h \
+ boards/ardrone/baro_board.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/abi.h \
+ /home/djim/Documents/paparazzi/var/include/abi_messages.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/abi_common.h \
+ /home/djim/Documents/paparazzi/sw/include/std.h \
+ /home/djim/Documents/paparazzi/sw/include/message_pragmas.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_trig_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/abi_sender_ids.h \
+ boards/ardrone/baro_board.h boards/ardrone/navdata.h

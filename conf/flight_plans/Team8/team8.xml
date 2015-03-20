@@ -1,0 +1,35 @@
+<!DOCTYPE flight_plan SYSTEM "../flight_plan.dtd">
+
+<!-- Change the lat en lon -->
+<flight_plan name="Team8" lat0="51.990634" lon0="4.376789" alt="1" ground_alt="0" security_height="0.1" home_mode_height="1" max_dist_from_home="15">
+
+  <header>
+    #include "autopilot.h"
+    #include "generated/modules.h"
+  </header>
+
+  <waypoints>
+    <waypoint name="HOME" x="0.0" y="0.0"/>
+    <waypoint name="CLIMB" x="0.0" y="5.0"/>
+    <waypoint name="STDBY" x="-2.0" y="-5.0"/>
+    <waypoint name="VariableWaypoint" x="0.5" y="0.5"/>
+  </waypoints>
+
+  <blocks>
+    <block name="Wait GPS">
+      <call fun="NavKillThrottle()"/>
+      <while cond="!GpsFixValid()"/>
+    </block>
+    <block name="Geo init">
+      <while cond="LessThan(NavBlockTime(), 10)"/>
+      <call fun="NavSetGroundReferenceHere()"/>
+    </block>
+    <block name="Execute Script">
+      <while cond="TRUE">
+        <go wp="VariableWaypoint"/>
+        <while cond="5 > stage_time"/>
+      </while>
+    </block>
+  </blocks>
+
+</flight_plan>

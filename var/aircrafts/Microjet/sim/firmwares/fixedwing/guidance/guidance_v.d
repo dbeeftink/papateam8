@@ -1,0 +1,34 @@
+/home/djim/Documents/paparazzi/var/aircrafts/Microjet/sim/firmwares/fixedwing/guidance/guidance_v.o: \
+ firmwares/fixedwing/guidance/guidance_v.c \
+ /home/djim/Documents/paparazzi/sw/airborne/firmwares/fixedwing/guidance/guidance_v.h \
+ /home/djim/Documents/paparazzi/sw/airborne/firmwares/fixedwing/guidance/guidance_common.h \
+ /home/djim/Documents/paparazzi/sw/airborne/paparazzi.h \
+ /home/djim/Documents/paparazzi/sw/airborne/state.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/include/std.h \
+ /home/djim/Documents/paparazzi/sw/include/message_pragmas.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_trig_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_geodetic_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_geodetic.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_geodetic_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_orientation_conversion.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/firmwares/fixedwing/nav.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/navigation/nav_survey_rectangle.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/navigation/common_flight_plan.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/navigation/common_nav.h \
+ /home/djim/Documents/paparazzi/var/aircrafts/Microjet/sim/generated/airframe.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/actuators/actuators_default.h \
+ /home/djim/Documents/paparazzi/sw/airborne/boards/pc_sim.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/actuators/actuators_4017.h \
+ /home/djim/Documents/paparazzi/sw/airborne/arch/sim/subsystems/actuators/servos_4017_hw.h \
+ /home/djim/Documents/paparazzi/sw/airborne/firmwares/fixedwing/autopilot.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/settings.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/datalink/transport.h \
+ /home/djim/Documents/paparazzi/sw/airborne/mcu_periph/link_device.h

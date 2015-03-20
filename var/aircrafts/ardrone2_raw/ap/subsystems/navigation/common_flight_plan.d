@@ -1,0 +1,31 @@
+/home/djim/Documents/paparazzi/var/aircrafts/ardrone2_raw/ap/subsystems/navigation/common_flight_plan.o: \
+ subsystems/navigation/common_flight_plan.c \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/navigation/common_flight_plan.h \
+ /home/djim/Documents/paparazzi/sw/include/std.h \
+ /home/djim/Documents/paparazzi/sw/include/message_pragmas.h \
+ /home/djim/Documents/paparazzi/var/aircrafts/ardrone2_raw/ap/generated/flight_plan.h \
+ /home/djim/Documents/paparazzi/var/aircrafts/ardrone2_raw/ap/generated/modules.h \
+ modules/calibration/send_imu_mag_current.h \
+ /home/djim/Documents/paparazzi/sw/ext/ardrone2_vision/modules/Mjpeg/viewvideo.h \
+ firmwares/rotorcraft/autopilot.h \
+ /home/djim/Documents/paparazzi/var/aircrafts/ardrone2_raw/ap/generated/airframe.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/actuators/actuators_default.h \
+ /home/djim/Documents/paparazzi/sw/airborne/boards/ardrone2_raw.h \
+ /home/djim/Documents/paparazzi/sw/airborne/boards/ardrone/actuators_ardrone2_raw.h \
+ /home/djim/Documents/paparazzi/sw/airborne/state.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_trig_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_geodetic_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_geodetic.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_geodetic_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_orientation_conversion.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_int.h \
+ /home/djim/Documents/paparazzi/sw/airborne/math/pprz_algebra_float.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/settings.h \
+ /home/djim/Documents/paparazzi/sw/airborne/subsystems/datalink/transport.h \
+ /home/djim/Documents/paparazzi/sw/airborne/mcu_periph/link_device.h
